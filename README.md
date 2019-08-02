@@ -10,7 +10,7 @@ Stepping Narrative:
 - Total step volume is useful, knowing when in the day you were able to manufacture such steps adds another layer of insights that may very well increase the liklihood of meeting Canada's reccomended physical activity guidlines. 
 - Personalized reports sent in a timely manner and in a localized fashion (i.e. email account)
 
-Stage: 
+Stages: 
 
 cron scheduler {
 
