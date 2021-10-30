@@ -2,8 +2,7 @@
 
 This project is built using the Fitbit API and the git repository of orcasgit/python-fitbit -- https://github.com/orcasgit/python-fitbit.
 
-Purpose:
-Personal coding project to develop a functional application that enhances how end users track daily physical activity trends using a more informative "stepping-narrative orientation" as compared to total step count per day.
+Purpose: Coding project to develop a functional application that enhances how end-users ability to track daily physical activity trends using "stepping-narrative" data as compared to total step count/day.
 
 Stepping Narrative:
 - speaks to the story of one indivudals stepping 'patterns' [volume of PA x time] (steps/minute) over the lifespan of wear-time (hrs, days, months, yrs, etc.)
